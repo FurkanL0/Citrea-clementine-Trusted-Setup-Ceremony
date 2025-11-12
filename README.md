@@ -16,6 +16,9 @@
 |------------------|----------------------------|----------------------------|
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
 
+<img width="939" height="230" alt="image" src="https://github.com/user-attachments/assets/68561c82-9b59-4611-beb1-1ddbf4177830" />
+
+- Ara ara CPU FULL Çekiyor - validatör olan bir sunucuda kullanmanızı önermem.
 
 ## Server Güncelleme : 
 
