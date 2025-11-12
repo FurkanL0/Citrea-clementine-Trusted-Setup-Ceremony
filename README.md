@@ -39,3 +39,32 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 . "$HOME/.cargo/env"
 ```
+
+
+## Circom 
+
+```bash
+git clone https://github.com/iden3/circom.git
+cd circom
+cargo install --path circom          # installs the 'circom' binary into ~/.cargo/bin
+circom --version                     # sanity check (expect v2.2.x)
+cd ..
+```
+
+## Snark JS
+
+```bash
+npm install -g snarkjs
+snarkjs --version
+```
+
+## BitVM Dosyaları Çekelim - Kurulum
+
+```bash
+screen -S ceremony
+```
+
+```bash
+git clone https://github.com/chainwayxyz/risc0-to-bitvm2
+cd risc0-to-bitvm2
+```
