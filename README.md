@@ -134,4 +134,7 @@ export NODE_OPTIONS="--max-old-space-size=32768"
 snarkjs zkey verify verify_for_guest.r1cs ppot_0080_23.ptau verify_for_guest_final.zkey
 ```
 
+<img width="1060" height="633" alt="image" src="https://github.com/user-attachments/assets/99f730b8-85cd-47a7-b959-56a18b66af1d" />
+
+
 - 30 Dakika İle 1 Saat Arası Sürer.
