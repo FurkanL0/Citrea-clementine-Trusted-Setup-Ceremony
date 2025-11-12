@@ -61,6 +61,9 @@ npm install -g snarkjs
 snarkjs --version
 ```
 
+<img width="575" height="84" alt="image" src="https://github.com/user-attachments/assets/3ef8abed-a131-41bf-b831-051da655cf2e" />
+
+
 ## BitVM Dosyaları Çekelim - Kurulum
 
 ```bash
