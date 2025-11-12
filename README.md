@@ -134,7 +134,8 @@ export NODE_OPTIONS="--max-old-space-size=32768"
 snarkjs zkey verify verify_for_guest.r1cs ppot_0080_23.ptau verify_for_guest_final.zkey
 ```
 
-<img width="1052" height="633" alt="image" src="https://github.com/user-attachments/assets/c7beabfc-2168-4a4e-b10b-4db33df5022b" />
+<img width="960" height="130" alt="image" src="https://github.com/user-attachments/assets/baef5c1a-7bb4-406c-b259-e0063ec6620e" />
+
 
 
 
