@@ -124,6 +124,8 @@ sha256sum ppot_0080_23.ptau verify_for_guest_final.zkey
 # 86fc7478fce8b91b502538cc64e8295a104f68ecf025042a21b10b54d7d504c0  verify_for_guest_final.zkey
 ```
 
+- 14-15 GB İndiriyor.
+
 <img width="1053" height="632" alt="image" src="https://github.com/user-attachments/assets/56219aa8-e1a7-4ecf-8246-f8aded5a3374" />
 
 
