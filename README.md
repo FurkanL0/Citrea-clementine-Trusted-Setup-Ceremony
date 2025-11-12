@@ -104,6 +104,10 @@ sha256sum verify_for_guest.r1cs
 # c90be1fb4b83f8f10f4be51e47ebdde2fd97dacd60d658d63d6828f3f642a116
 ```
 
+<img width="750" height="441" alt="image" src="https://github.com/user-attachments/assets/e95d8f7f-83da-4412-9953-5b282f77720b" />
+
+- Biraz uzun süredü ( 10-15 dk )
+
 ## Powers of Tau Ve Finaly Zkey İndirelim ; 
 
 ```bash
