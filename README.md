@@ -1,5 +1,8 @@
 # Citrea-clementine-Trusted-Setup-Ceremony;
 
+![1500x500](https://github.com/user-attachments/assets/b4b945ad-6ffc-4889-abd7-63ff7404483a)
+
+
 | X        | Minimum              |
 |------------------|----------------------------|
 | **CPU**          | Belirsiz++ |
