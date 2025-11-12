@@ -51,6 +51,9 @@ circom --version                     # sanity check (expect v2.2.x)
 cd ..
 ```
 
+<img width="587" height="96" alt="image" src="https://github.com/user-attachments/assets/1e60ddab-7936-4ad5-a81c-ebb7fd406609" />
+
+
 ## Snark JS
 
 ```bash
